@@ -1,7 +1,13 @@
 # Pesto Task Management App - Frontend
 
 ## Technology and Library Used
-- React Js , Bootstrap , Axios 
+- React Js , Bootstrap , Axios
+
+  ## Running the Project
+  - Clone the repository
+  - move to folder
+  - Install all libraries using `npm install`
+  - Run project `npm start`
 
 ## Bonus Features
 
